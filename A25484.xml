@@ -1,0 +1,1135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another cry of the innocent &amp; oppressed for justice, or, A second relation of the unjust proceedings at the sessions held at Hicks's Hall for the county of Middlesex, and at the Old Baily, London, the 6th and the 14th dayes of the 10th month or December, 1664, with and against 32 more of the people called Quakers ... together with an account of the most material passages between the prisoners and the aforesaid courts ... : unto which also is now added, a brief, short summary of the sentencing of 36 more of the aforesaid people ... where they were all sentenced for to be transposed to the island of Jamaica.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25484</idno>
+            <idno type="STC">Wing A3255</idno>
+            <idno type="STC">ESTC R12642</idno>
+            <idno type="EEBO-CITATION">12647201</idno>
+            <idno type="OCLC">ocm 12647201</idno>
+            <idno type="VID">65169</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25484)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65169)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 340:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another cry of the innocent &amp; oppressed for justice, or, A second relation of the unjust proceedings at the sessions held at Hicks's Hall for the county of Middlesex, and at the Old Baily, London, the 6th and the 14th dayes of the 10th month or December, 1664, with and against 32 more of the people called Quakers ... together with an account of the most material passages between the prisoners and the aforesaid courts ... : unto which also is now added, a brief, short summary of the sentencing of 36 more of the aforesaid people ... where they were all sentenced for to be transposed to the island of Jamaica.</title>
+               </titleStmt>
+               <extent>[2], 29 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Library of Congress.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  History --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65169:1" rendition="simple:additions"/>
+            <p>
+               <hi>Another</hi> CRY <hi>of the</hi> INNOCENT &amp; OPPRESSED, FOR JUSTICE; OR, A Second Relation of the unjuſt pro<g ref="char:EOLhyphen"/>ceedings at the Seſſions held at <hi>Hicks</hi>'s Hall for the County of <hi>Middleſex,</hi> and at the <hi>Old Bai<g ref="char:EOLhyphen"/>ly, London,</hi> the <hi>6th</hi> and the <hi>14th</hi> dayes of the <hi>10th</hi> Month or <hi>December,</hi> 1664 With and againſt 32 more of the People called <hi>Quakers,</hi> who were all ſentenced for a pretended breach of the late Act.</p>
+            <p>Together with an Account of the moſt material Paſſages between the Priſoners and the aforeſaid Courts, in which it doth appear very plainly, That only Meeting to Worſhip God in the Spirit and in the Truth, is by the Judges, made and declared to be the matter of Fact deſerving ſo griev<g ref="char:EOLhyphen"/>ous a Sentance.</p>
+            <p>
+               <g ref="char:V">Ʋ</g>nto which alſo is now Added, A Brief, Short Summary of the Sentencing of 36 more of the aforeſaid people, in ſcorn <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Quakers,</hi> at the two places above mentioned, 4 at <hi>Hicks</hi>'s Hall, and 32 at the <hi>Old Baily,</hi> the <hi>11th</hi> and <hi>15th</hi> of the <hi>11th</hi> Month called <hi>Janu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ry,</hi> where they were all Sentenced for to be Tranſported to the Iſland of <hi>Jamaica.</hi>
+            </p>
+            <q>But ye have deſpiſed the poor; do not rich men oppreſs <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou, and draw you before the Judgment ſeats? Do not they Blaſpheme that wor<g ref="char:EOLhyphen"/>thy Name by which ye are called? <bibl>Jam. 2.6, 7.</bibl>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1664.</p>
+         </div>
+         <div type="list">
+            <pb facs="tcp:65169:2" rendition="simple:additions"/>
+            <head>Theſe are the Names of the Twelve, Sen<g ref="char:EOLhyphen"/>tenced at <hi>Hicks</hi>'s Hall.</head>
+            <list>
+               <item>Edward Berkly.</item>
+               <item>William Mathews.</item>
+               <item>John Terry.</item>
+               <item>Diggery Marſhall.</item>
+               <item>William Brend.</item>
+               <item>John Goodwin.</item>
+               <item>John Noble.</item>
+               <item>Nathaniel Harding.</item>
+               <item>Vincent Gerrard.</item>
+               <item>Edw. Malitrat.</item>
+               <item>Francis Tarcy.</item>
+               <item>Martin Groſhe.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:65169:2"/>
+            <p>BIlls o<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Indictments being drawn up againſt the aforeſaid twelve perſons, they were deliverd to the <hi>Grand Jury</hi> (who were men generally of the ſame ſpirit with the perſecutors and Judges) for though the Bils of Indictments contained many and divers Criminal Tearms to expreſſe the matter of fact: <hi>[viz.]</hi> ☞ 1. For being at an Unlawful meeting, or Conventicle. 2. For being there under colour and pretence of Religious Exerciſe. 3. That this Religious exerciſe was in other manner then is allowed by the Liturgie or practice of the Church of <hi>England.</hi> 4. For being there with divers other Malefactors (or diſobedient perſons) to the ter<g ref="char:EOLhyphen"/>ror of the people, and diſturbing the peace. Fiftly and laſtly, That they were there to do the aforeſaid evils contrary to the form of the late Statute in that caſe provided, <hi>&amp;c.</hi>
+            </p>
+            <p>Now this Grand Jury never ſo much as called for evidence to prove any one of thoſe crimes aforeſaid, but all they required of the Witneſſes was, to give evidence that the Priſoners were met together at ſuch a time in ſuch a place, above the number of five &amp;c. This was all the Witneſſes ſwore, upon which they found all the Bills.</p>
+            <p>Their deſigned work being ſo far done, the aforeſaid priſoners, on the ſixth day in the morning, were brought from <hi>Newgate</hi> to <hi>Hick.</hi>'s Hall: And firſt four (viz.) <hi>Edmond Berkely, William Ma<g ref="char:EOLhyphen"/>thews, John Terry, Diggery Marſhall</hi> were ſet to the Bar, and bills of Indictments was read againſt them, containing thoſe crimes before recited; and they being asked whether they were Guilty or not, anſwered ſeverally, That they were not guilty of thoſe things laid to their charge.</p>
+            <p>Then were the other eight called, viz. <hi>William Br<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, John Good<g ref="char:EOLhyphen"/>win, John Noble, Nathaniel Harding, <g ref="char:V">Ʋ</g>incent Gerrard, Edward Mallitrat, francis Ta<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cy, Martin Chroſhe,</hi> one after another cal<g ref="char:EOLhyphen"/>led to the Bar, and their Indictments read, which were for matter the ſame with the other, being all of one fo<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m; who being asked Guilty, or Not Guilty, they anſwered as the former had done, <hi>viz.</hi> That they were not guilty of being at any unlawful Meeting or Aſ<g ref="char:EOLhyphen"/>ſembly, &amp;c. and only too of them demanded a Copy of their In<g ref="char:EOLhyphen"/>dictments, but Judge <hi>Hyde</hi> ſaid, Except they would pay eight pence
+<pb n="2" facs="tcp:65169:3"/>a ſheet for them, they might not have them; ſo they anſwered, that was extortion, and they could not do it.</p>
+            <p>Now note how Judge <hi>Hydes</hi> cruelty and ſubtilty appears in this his ſetting ſo high a price upon the Clerks labour, knowing the pri<g ref="char:EOLhyphen"/>ſoners would not pay ſo dear for it, and therefore would be the l<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe capable to overturn and make void their Indictments: For it was noted, what would make againſt the priſoners every way, that he and the reſt were ſure to make uſe and advantage of. And ra<g ref="char:EOLhyphen"/>ther than they would want evidences againſt the priſoners on the o<g ref="char:EOLhyphen"/>ther hand, the Clerks ſhould looſe all their Fees as was obſerved when the Witneſſes did not appear, the Judges were angry and ve<g ref="char:EOLhyphen"/>ry much diſpleaſed. Then one of the Juſtices on the Bench told the Judges the reaſon why they did not appear was, becauſe the charge of drawing their Recullizance was ſo great. Then ſaid Judg <hi>Hyde,</hi> to incourage them to be Witneſſes (who were bound thereto) againſt the Innocent, That they ſhould pay nothing. And if the Clerks did make them pay a groar, he would make them pay ten for it. One of the priſoners alſo ſaid to the Judg, What advantage will it be to me if I ſhould plead?</p>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>If you plead, and are not found Guilty, you may be cleared by the Jury.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner</speaker>
+               <p>What if the Jury men be overtawed by you that are Judg<g ref="char:EOLhyphen"/>es? And if you have already determined the Caſe, as was known the laſt Seſſions before this, where ſome of our friends were ſenten<g ref="char:EOLhyphen"/>ced that did plead, and ſome that did not plead: And the Jury threatned. &amp;c</p>
+            </sp>
+            <sp>
+               <speaker>Jud. Keeleing.</speaker>
+               <p>You ſcandalize us: but the priſoner ſpake truth. After ſome more words they were all ſet to the Bar.</p>
+            </sp>
+            <stage>Then the Petry Jury was called over, ſworn, and charged accord<g ref="char:EOLhyphen"/>ing to their uſual form, (viz.) <hi>Well and truly to try,</hi>
+               <note place="margin">How this was, let Gods Witneſs in all Conſciences judg.</note> 
+               <hi>and true deliverance make betwixt the King, and the Priſoners at the Bar, and to bring in their Verdict according to Evidence, &amp;c.</hi>
+            </stage>
+            <sp>
+               <speaker>Clerk.</speaker>
+               <p>Set <hi>Edmond Berkly</hi> to the Bar, who read the Records of the Juſtices to prove the Firſt and Second pretended offence; and the Witneſſes were called and ſworn to prove a Third. One was one of the Juſtices Clerks, who ſwore that he did ſee the ſaid <hi>Ed<g ref="char:EOLhyphen"/>mond</hi>
+                  <pb n="3" facs="tcp:65169:3"/>at ſuch a place, at ſuch a time. Then a Conſtable preſent gave Evidence, that he did not remember the ſaid <hi>Edmond,</hi> but he did carry the perſons mentioned in the <hi>Mittimus</hi> to the priſon of New<g ref="char:EOLhyphen"/>gate. <hi>William Turner</hi> alſo gave Evidence, that he received the ſaid perſons into Newgate ſuch a time.</p>
+            </sp>
+            <sp>
+               <speaker>Jud.</speaker>
+               <p>What ſay you for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Their Evidence, and ſo ſaying, doth not prove me to be guilty of being at an Unlawful meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Jud.</speaker>
+               <p>That's not the thing; were you not at ſuch a time at ſuch a place? if you were, the Law doth judg all ſuch meetings to be un<g ref="char:EOLhyphen"/>lawful.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>The meeting, ſimply as it is a meeting, is not unlawful; but the unlawfulneſſe of it muſt be proved by ſomething either ☞ done or ſaid: Therefore Jury-men take notice, that the Wit<g ref="char:EOLhyphen"/>neſſes have not proved any thing to make the meeting un<g ref="char:EOLhyphen"/>lawfull.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Set him aſide.</p>
+            </sp>
+            <stage>
+               <hi>Then was</hi> William Mathews <hi>ſet to the Bar, and evidence given as before.</hi>
+            </stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>What have you to ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was at no unlawful meeting, neither have I done any thing to the breach of any mans peace, nor in contempt to the Kings Laws: but what I did was to worſhip God, and to ſerve him in the uprightneſſe of my heart, and to no other end did I ever meet, the Lord knows, to whom I muſt give an account.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Was you at that meeting ſuch a time (naming the day) at ſuch a place?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was at no other meeting, then to wait upon the Lord, and if for which ſervice and worſhip of God, and teſtimony of his Truth, I muſt be ſeparated from my Wife and Children, which are neere and dear to me, the will of the Lord be done, I am freely gi<g ref="char:EOLhyphen"/>ven up.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Jury-men, I would have you take notice, that there is no<g ref="char:EOLhyphen"/>thing of Fact proved (neither in word nor deed) againſt any of us: Therefore you ought not, neither can you with a good Conſcience, bring us in guilty.</p>
+               <pb n="4" facs="tcp:65169:4"/>
+            </sp>
+            <stage>
+               <hi>John Terry</hi> at the Bar.</stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Have you any thing to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I deſire to ſee my Accuſers.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Swear the Conſtable: Being ſworn, he gave Evidence, that he brought the ſaid <hi>John Terry</hi> to priſon ſuch a day. The Clerks boy looking into his book, ſaid he ſaw him at the meeting; alſo <hi>William Turner</hi> gave Evidence that he received him into his cu<g ref="char:EOLhyphen"/>ſtody.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>This doth prove me but once; is doth not prove three times.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>The other two are plain by Record.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>There are Records that are falſe: for ſome have been ſtop<g ref="char:EOLhyphen"/>ped for the Third pretended offence, on the Firſt and Second, by reaſon that ſeveral men are of one Name.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>
+                  <hi>Will. Turner,</hi> what can you ſay againſt this man?</p>
+            </sp>
+            <sp>
+               <speaker>Will. Turner.</speaker>
+               <p>He hath been three times in priſon.</p>
+            </sp>
+            <sp>
+               <speaker>Priſon.</speaker>
+               <p>So hath many Felons.</p>
+            </sp>
+            <sp>
+               <speaker>Will. Turner.</speaker>
+               <p>He hath been three times committed for being at a meeting, the firſt time he was committed for three moneths, and twice ſince.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Is it a Crime ſufficiently worthy of Baniſhment, to meet to<g ref="char:EOLhyphen"/>gether to ſerve the Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Hide.</speaker>
+               <p>
+                  <hi>It's Crime enough, it's Crime enough:</hi> ſet him by.</p>
+            </sp>
+            <stage>
+               <p>Then a friend reply'd and ſaid, <hi>Record that, or, Let that be Re<g ref="char:EOLhyphen"/>corded.</hi>
+               </p>
+               <p>Then was <hi>Diggery Marſhall</hi> called to the Bar.</p>
+               <p>The Witneſſes were ſworn (one being the Clerks boy) to whom the Judg ſpake and ſaid, <q>Did you ſee this man at ſuch a place?</q> The boy looking in a paper ſaid, <q>Yes.</q>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Did you ſee him there ſuch a time?</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>Yes.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Did you ſee him in the Meeting?</p>
+            </sp>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>I cannot tell that; but I ſee him brought before the Juſtices.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I ſuppoſe he hath not this in his paper.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Well he hath enough: in like manner the other Witneſ<g ref="char:EOLhyphen"/>ſes
+<pb n="5" facs="tcp:65169:4"/>gave their Evidence.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>What ſay you? If you have any thing to ſay, you may now ſpeak.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I ſuppoſe it is to little purpoſe to ſay any thing, you will go on as you have determined, let me ſay what I will.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>No, you ſhall be try'd according to Law, and we will do you juſtice and right.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I have little cauſe to expect it, for I have ſeen little done as yet. I am here Indicted for being at an unlawful meeting, which is not yet proved that the meeting was unlawful.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>It is proved that you was at a Meeting, and the Law judges that meeting to be unlawful, and therefore we judg it ſo, it being under a pretence of worſhipping God contrary to the Liturgy of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I do not underſtand that it is contrarary to the Liturgy for me to meet to worſhip God in reality and truth, and not under any pretence. And if we meet really to worſhip God, muſt we ſuffer for that?</p>
+            </sp>
+            <sp>
+               <speaker>Jud.</speaker>
+               <p>☞ <hi>Hyde <hi>Yes that you muſt.</hi>
+                  </hi>
+               </p>
+            </sp>
+            <stage>
+               <p>Standers by, with much grief of heart, ſaid, Was ever the like known?</p>
+               <p>Then Judge <hi>Keeling,</hi> to mend the matter, ſaid, <q>You ſhall not ſuf<g ref="char:EOLhyphen"/>fer for worſhipping God, but for being at an unlawful Aſſembly, con<g ref="char:EOLhyphen"/>trary to the Law.</q>
+               </p>
+               <p>But this covering is too narrow, <hi>Out of the abundance of the heart the mouth ſpeaketh.</hi>
+               </p>
+               <p>Then was <hi>William Brand</hi> called to the Bar, his Indictment read, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>What have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>The Indictment is null and void, by reaſon of the Errors that are in it: And though I do not trouble my ſelf with your Laws, yet according to the Knowledg I have, there may be much ſaid in ex<g ref="char:EOLhyphen"/>ceptions againſt the Indictment, in the Nicities and Punctillios of your own Law, but I matter not theſe things. I ſhall come to that part of the Indictment, in which I am charged for being at an un<g ref="char:EOLhyphen"/>lawful meeting, (but the Judge often interrupted him, and would not ſuffer him ſpeak what he had in his heart to declare, &amp;c.) No clear
+<pb n="6" facs="tcp:65169:5"/>Evidence did appear againſt him, and they were at a ſtand how to proceed; but at laſt the Judge called for his <hi>Mittimus,</hi> where he found he was one time committed from <hi>Whee<g ref="char:EOLhyphen"/>lers Street,</hi> which prov'd an Error in their In<g ref="char:EOLhyphen"/>dictment, being<note n="*" place="margin">Note, this would have quaſhed an In<g ref="char:EOLhyphen"/>dictment againſt a Fellon.</note> Indicted for being that ſame day at <hi>Mile-end.</hi> There was no Witreſſe to prove the firſt, ſecond, or third pretended offence, till <hi>Thomas Swallow</hi> called a Juſtice (whoſe name the Judg ſaw at the <hi>Mitti<g ref="char:EOLhyphen"/>mus</hi>) was called to by the Judg, and asked. Whether he knew the priſoner? who ſaid he did not. Then the <hi>Mittimus</hi> was ſhewed to him, to ſee if he would own it, and the book was given him to ſwear. Then ſaid the priſoner, If he muſt ſwear and be a Witneſſe, let him come from off the Bench, and ſtand in the Witneſſes place, but the Judg would not ſuffer it ſo to be: So he gave Evidence up<g ref="char:EOLhyphen"/>on the Bench upon his Oath, That if the priſoners name was in the <hi>Mittimus,</hi> then he muſt be in the meeting. I own it is my hand, ſaid he.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>'Thats enough.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Muſt we be Judged by Conſequence? I judge that the Jury ſhould have plain, evident proof to proceed upon.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>They may proceed and take evidence by conſequence, ex<g ref="char:EOLhyphen"/>cept you can prove that you were not at the meeting.</p>
+            </sp>
+            <stage>Then the Clerk of <hi>Tho. Byde,</hi> called Juſtice, was ſworn.</stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Reach him the <hi>Mittimus;</hi>
+               </p>
+            </sp>
+            <stage>
+               <p>
+                  <q>I own,</q> ſaid he, <q>this to be my writing.</q>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Do you know the priſoner? Did you ſee him at the meeting?</p>
+            </sp>
+            <sp>
+               <p>☞ Yes. <hi>For he was praying.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I have ſomething to ſay to the Jury.</p>
+            </sp>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>We will not ſuffer you to ſpeak to them. So he was hurried away.</p>
+            </sp>
+            <stage>
+               <p>Then was <hi>John Goodwin</hi> ſet to the Bar, &amp;c.</p>
+               <p>
+                  <hi>Tempest</hi> the Conſtable was ſworn.</p>
+            </stage>
+            <sp>
+               <speaker>Judg Keeling.</speaker>
+               <p>Did you ſee that man at the meeting ſuch a time?</p>
+            </sp>
+            <sp>
+               <speaker>Tempeſt.</speaker>
+               <p>Yes that I did, if his name be in the <hi>Mittimus.</hi>
+               </p>
+            </sp>
+            <stage>
+               <p>Then a young <hi>boy</hi> was called and ſworn.</p>
+            </stage>
+            <sp>
+               <speaker>Judg.</speaker>
+               <p>Come what can you ſay, did you ſee him at the meeting?</p>
+            </sp>
+            <pb n="7" facs="tcp:65169:5"/>
+            <sp>
+               <speaker>Boy.</speaker>
+               <p>I ſee him in the Yard, by the ſame token he told the Juſti<g ref="char:EOLhyphen"/>ces, that if he was among the <hi>Turks,</hi> he might find more favour then amongſt them; <hi>William Turner</hi> was called.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Did you receive him ſuch a day into your Cuſtody.</p>
+            </sp>
+            <sp>
+               <speaker>Turner.</speaker>
+               <p>Yes and pleaſe your Lordſhip, I did. <hi>Will Rider</hi> gave evidence alſo that he ſaw him in the Meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>It is enough, what ſay you now?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>There is no evil charged againſt me.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him aſide.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>John Noble</hi> was ſet to the Bar, &amp;c. The Witneſſes not appear<g ref="char:EOLhyphen"/>ing, the <hi>Judge</hi> called for the Mittimus, <hi>Juſtice Pitfield</hi> and his <hi>Clark</hi> were ſworn (who made the Mittimus) who gave evidence that he was at the Meeting, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You ſee it here appeares that you were there.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>The Lord God of Heaven and Earth will plead my cauſe.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him aſide.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Nathaniel Harding</hi> was ſet to the Bar, &amp;c. <hi>Tempeſt</hi> the Cunſtable gave evidence that he ſaw him at the Meeting at <hi>Mile-end,</hi> and no more; and <hi>William Turner</hi> gave evidence that he received him into his Cuſtody, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I wonder much how any of us can be brought in guilty, ſeeing none doth evidence any evil againſt us.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him aſide.</p>
+            </sp>
+            <stage>
+               <p>Then was <hi>Vincent Gerrard</hi> ſet to the Bar, &amp;c. And being ſilent, the <hi>Judge</hi> ſaid,<note place="margin">Its more to be lamen<g ref="char:EOLhyphen"/>ted that old men ſhould be ſuch unjuſt Judges to ſentence men for to be Tranſ<g ref="char:EOLhyphen"/>ported for doing well.</note> it is pitty young men having good Trades, and might live well, ſhould bring themſelves into theſe troubles.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſayes the Witneſſes, was the Pri<g ref="char:EOLhyphen"/>ſoner at the Bar in the Meeting?</p>
+            </sp>
+            <sp>
+               <speaker>Clark.</speaker>
+               <p>I will look in the Mittimus if his name be therein, to be ſure he was there;</p>
+            </sp>
+            <sp>
+               <speaker>Clark.</speaker>
+               <p>His Name is there.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him aſide.</p>
+            </sp>
+            <stage>
+               <p>Then was <hi>Edward Mallitrat</hi> brought to the Bar, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Where are my Accuſers?</p>
+            </sp>
+            <sp>
+               <speaker>J. H.</speaker>
+               <p>Call Juſtice <hi>Marches</hi> Clark; What ſay you <hi>Tho. Porter?</hi> My Lord I did not mind him there</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Sir <hi>William Rider</hi> what ſay you? </p>
+            </sp>
+            <sp>
+               <p>My Lord I do not know his face, there was ſo many there.</p>
+            </sp>
+            <sp>
+               <speaker>Tempeſt.</speaker>
+               <p>What ſay you, my Lord I brought him to <hi>New Gate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Will. Turner.</speaker>
+               <p>What ſay you, my Lord I receiv'd him.</p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>Now you muſt clear your ſelf whether you was at the Meeting or not?</p>
+            </sp>
+            <pb n="8" facs="tcp:65169:6"/>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>What ſhall I ſay, I may compare you to the Scribes and and Phariſees, for they ſaid they had a Law, and by that Law they Crucified the Lord of Life.</p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>No matter for that, have you any thing elſe to ſay.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>It is to little purpoſe to ſay any thing to you. So he was ſet by.</p>
+            </sp>
+            <stage>
+               <p>Then <hi>Francis Tarcy</hi> was called to the Bar, Indictment read, &amp;c. The Witneſſes being Juſtice <hi>Pitfield's</hi> Clark, and <hi>William Turner</hi> (Turnkey at <hi>Newgate</hi>) who gave evidence that he was at the Meeting, and the Clark ſaid he was the firſt in the Mittimus, the Judge ſaid that was ſufficient.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I did not meet in any ſeditious Conventicle, neither am I a malefactor, or evil doer; and I am otherwiſe perſwaded of the Meetings, for they are peaceable, and are the Meeting-places where the people of God are wont to aſſemble.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him by.</p>
+            </sp>
+            <stage>
+               <p>Then <hi>Martin Croſhe</hi> was ſet to the Bar, &amp;c. The Witneſſes gave evidence in this wiſe, That he was at the Meeting, and being brought before <hi>William Rider</hi> at <hi>Mile-end,</hi> who demanded what he came thither for? He replyed, to wait upon God in his fear.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Have you any thing to ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I did meet often at that place in the fear of the Lord, which the Lord God commands and allowes men to do, now if your Law by which you proceed againſt me be contrary to this Law of God, then I muſt deſire your Councel, which of theſe two you would adviſe me to obey? for you being Judges ought to be my Councellors, and to deal impartially, and not to flout at me as ſome of you have done, by your diſdainful language in biding me medle with my Sizzers; I knowing that both my liberty and life may lie at ſtake, I deſire to be heard, for I have not tranſgreſſed any juſt Law; I am not guilty of being at any unlawful meeting; wherefore I deſire your Councel what I ſhould do in this weighty matter, the Law of God commanding and allowing me to wait on, and ſerve him in his fear, and your Law prohibiting it, in this caſe pray what muſt I do, or which ſhall I obey?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Hide.</speaker>
+               <p>You muſt go to the Church, and leave theſe facti<g ref="char:EOLhyphen"/>ons.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Do you call the Law of God a Faction?</p>
+            </sp>
+            <pb n="9" facs="tcp:65169:6"/>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am not guilty of thoſe un<g ref="char:EOLhyphen"/>lawfull things which your Law is made againſt, and falcely charged againſt me in the Indictment, being ſure that I am innocent and cleare from any ſuch thing.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Your impudence ſhall not ſerve your turn.</p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>Was you at the Meeting to worſhip God?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I have been at many Meetings to wait upon the Lord in his feare, as the Law of God commands, and no Law ought to be made againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>We do not Try you for any unlawfull thing you did at the Meeting, but we have proved that you was at the Meeting;<note place="margin">☜</note> and the Law ſuppoſeth that meeting to be unlawful.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Without any unlawful thing done or ſaid?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Keeleing.</speaker>
+               <p>We care not what you did there, we have pro<g ref="char:EOLhyphen"/>ved that you did meet.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I underſtand that God is a ſpirit, and I meet to worſhip the eternal God in ſpirit, as he perſwades my heart and conſcience; and muſt I be condemned to baniſhment for that?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Keeleing.</speaker>
+               <p>
+                  <hi>Yes yes,</hi> for the Law is againſt it.<note place="margin">☜</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>He hath confeſſed that he was there to worſhip God, and their worſhip is contrary to the Liturgy of the Church of <hi>England.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Have you the Common Prayer Book read amongſt you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I deſire to know what Law I have broken?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Hide.</speaker>
+               <p>This Law (meaning the late Act) for ſuppreſſing ſeditious Conventicles.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>What in meeting to worſhip God according to my perſwation.</p>
+            </sp>
+            <sp>
+               <speaker>Judge Keeleing.</speaker>
+               <p>Ay.<note place="margin">☜</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Priſoner</speaker>
+               <p>Remember you are executing a Law which is contrary to the Law of God.</p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>Go medle with your Sizzers, (he being a Barber.)</p>
+            </sp>
+            <sp>
+               <speaker>Judge Hide.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>Jury-men, I hope you will take notice that I am not proved guilty of theſe evil things the Law is againſt, and that I am falſly accuſed of.</p>
+            </sp>
+            <p>The Jury went forth and ſoon returned, and brought in their Verdict, that eleven of the 12. were guilty, but they had ſome doubt about the young man, <hi>viz. Vincent Gerrard,</hi> which the Judge pittied, (it may be to pleaſe the Judge) ſo that they did not agree to find him guilty, but when they underſtood the Judges mind more plainly, by his biding them go forth again, they never went forth to conſult any further, but preſently agreed among
+<pb n="10" facs="tcp:65169:7"/>themſelves that he was guilty alſo, which publickly ſhewed forth their own weakneſs, and that they were but as a cypher and for a cloak, &amp;c.</p>
+            <p>Then they ſoon (even that very morning) proceeded to ſentence, and ſentenced all the aforeſaid 12. perſons for to be Tranſported to the Iſland of <hi>Jamaica,</hi> there to remain ſeven years. Thus it may be ſeen how the Juſt are oppreſſed for Righteouſneſs ſake, and how thoſe that the Lord hath choſen are condemned by the unjuſt.</p>
+            <p>
+               <hi>This one thing alſo may manifeſt the enmity and injuſtice of the afore<g ref="char:EOLhyphen"/>ſaid Judges:</hi> A friend ſtanding by, (but not in the face of the Court leaſt he ſhould give an occaſion) was by one of their envious Officers haled out into the yard, telling he was a Solicitor, and came to inſtruct the Priſoners; The Judges perceiving that he was, called a <hi>Quaker,</hi> called for him to be brought into the Court, the which their Mercenaries quickly did, and ſet him to the Bar, (but pull'd off his Hat before) as he ſtood at the Bar, Judge <hi>H.</hi> asked where his Hat was? ſome anſwered that it was taken from him, then he ſaid, give it him into his hand again, the friend perceiving his enmity and ſnare when it was proffered him, would not receive it, but ſaid that it was taken away violently from him in the Court, and he ſhould not then receive it; Then ſaid <hi>J. H.</hi> put it upon his head, which was done accordingly, Now ſaid he, I command you to take it off; I deſire ſaid the friend to know by what Law thee commands me ſo to do? Being ſilent a while, at laſt ſaid that they were Miniſters of Juſtice, and repreſented the Kings Perſon, and he ſhould Reverence Authority; He ſaid he did not keep his Hat on in contempt of the King, or any mans perſon or Authority, but for conſcience ſake, not dareing to be ſubject to the wills of men; preſſing ſtill to know what Law there was to command him to put off his Hat any more then any other of his garments; withal tell<g ref="char:EOLhyphen"/>ing them that Honour, Reverence and Reſpect did not conſiſt in puting off the Hat, or any other part of his Garments, and that they might as well command him to put off any other of his Cloathes; but <hi>I. H.</hi> having neither Law nor reaſon to urge in the Caſe, ſaid it was a cuſtome, &amp;c. and in fine, becauſe he did not obey his wilful command of the Court, (though they made the occaſion and created the pretended offence) they told he ſhould be fined five pound, to be levied upon his Goods, and be committed
+<pb n="11" facs="tcp:65169:7"/>to Priſon till he found Sureties for his good behaviour, which accordingly was done, and he immediately carried away to <hi>Newgate.</hi>
+            </p>
+            <p>Now let the honeſt righteous principle of God in all, judge whether this be righteous dealing, that a man ſhould be fined and impriſoned, and not for the breach of any known Law, nor for any ill behaviour; and whether pride and bitterneſs, envy and cruel<g ref="char:EOLhyphen"/>ty, partiality and reſpect of perſons doth not abound in and a<g ref="char:EOLhyphen"/>mong ſuch Judges and Courts of Judicatory: but the Lord doth and will judge the cauſe of his people over again, and he will be avenged on his enemies, and his judgement doth and will take hold upon all oppreſſors and perſecutors of his harmleſs people.</p>
+            <p>And this is alſo remarkable, <hi>Thomas Dawſon</hi> one of the Jaylors of <hi>Newgate,</hi> who was the firſt perſon (in <hi>London</hi>) that ſwore before a Jury againſt friends in the execution of this late Act, (who gave falſe evidence) at their Tryal in the <hi>Old Baily London,</hi> the 15th. of <hi>October</hi> 1664. after which time he was took notice of, that he never thrived in his body, but complained much of diſtempers within, and could eat little, but waſted to the time of his death, and he died the 30th. of <hi>Decemb.</hi> or the 10th Month.</p>
+            <p>Now all men that ſwear againſt people that fear God, raſhly, in<g ref="char:EOLhyphen"/>conſiderately and mercenarily, may expect aſſuredly that the juſt hand of the Lord will overtake them, and his righteous judgments find them out, in this world or in that to come, the wicked ſhall not go unpuniſhed.</p>
+            <p>Here followeth the proceedings of the ſame Judges ſitting in Juſtice-Hall in the <hi>Old Baily London,</hi> the 14th. of the 10th. Month with the Priſoners hereafter named briefly related, <hi>Viz.</hi>
+            </p>
+            <p>
+               <hi>Anne Preſt, William Newman, John Clouſe, Rebeccah Trump, Anne Royley, Iames Carter, William Parker, Elizabeth Pike, Elizabeth Harding, Thomas Cox, Mabell Wheeler, Iſabel Hacker, Benjamin Greenwell, Iohn Chaplin, Manaſſeth Howard, Lawrence Fullove, Edmond Overd, Iames Pearne, Thomas Veſſe, Lawrence Aplin.</hi>
+            </p>
+            <p>The above named Priſoners were brought from <hi>Newgate</hi> to the Seſſions-houſe on the day aforeſaid, and the bills of Indictment, which for matter and forme were all one with thoſe before reci<g ref="char:EOLhyphen"/>ted, were found by the Grand Jury, upon the bare evidence of meeting together above five, &amp;c. The Priſoners being ſet to the
+<pb n="12" facs="tcp:65169:8"/>Bar, and their Indictments read, they were asked Guilty or not Guilty; to which they moſt anſwered that they were not guilty of any evil, nor of being at any unlawful aſſembly, &amp;c. onely <hi>Ben. Greenwell</hi> when he was asked guilty or not guilty, ſaid, he had two or three queſtions to ask before he ſhould be willing to plead.</p>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>We ſhall anſwer to no queſtions till you have pleaded.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I am not willing to anſwer by way of plea, unleſs you will reſolve me in theſe things, I knowing that it is matter of weight and concernment to me in this caſe to be reſolved before I plead, I am ignorant of the Law, and you that are Judges are bound to reſolve the Priſoners at the Bar as to matter of Law, and I demand it of you as my right, my firſt queſtion is this, <hi>viz.</hi> What method doth the Law preſcribe as to the choice of Juries? Secondly, whether I may not make my exceptions againſt them? Thirdly, how many I may except againſt?</p>
+            </sp>
+            <sp>
+               <speaker>Judges.</speaker>
+               <p>You muſt plead to your Indictment, and you may make your exception.</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>It's a matter concernes me to be reſolved in before I plead, and it is reaſon I ſhould be ſatisfied what I may, before I caſt my ſelf upon the Jury; for the laſt Seſſions you threatned the Jury, eſpecially ſuch of them as acted conſcienciouſly, and that could not find our friends guilty; and how can we expect right to be done to us when men that bears an honeſt mind are over-awed, and dare not act it may be according to their conſciences, and for ſuch as make no conſcience of what they do, we expect no right from them.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Will you plead?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Yes, if you will promiſe before the people to allow me my exceptions.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>We will make you no promiſes.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am not ſatisfied concerning the Jury, and the choice of them.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>This we will reſolve you in, the Sheriffs returned them.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>If he will not plead, take him away.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am not willing to plead unleſs you will promiſe to allow my exceptions. So they took him away, and put him into a hole amongſt the Felons, and <hi>Lawrence Fullove</hi> who did not plead in their way, was put into the hole with him, for when the uſual queſtion was asked him, guilty or not guilty, he ſaid to the Judge, I ſhall leave it to that of God in thy conſcience to judge: The
+<pb n="13" facs="tcp:65169:8"/>Judge was ſilent a while, then afterwards asked him again whe<g ref="char:EOLhyphen"/>ther he was guilty or no?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Thou ſets as Judge, I leave it to thee, do thou dread and fear God.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Are you guilty or not?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Look one another in the face, there ſhall you ſee guilt.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>That ſhall not ſerve your turn.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Here's my body given up in the will of God.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>It ſhall be ſent far enough.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I value not thy Threats, I ſhall take that with me which ſhall glad my heart, and which all the Lawyers in <hi>England</hi> are not able to purchaſe, even a good Conſcience, yea a good Conſcience.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You are an impudent fellow, and do not talk as if you were a Religious man.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>That's thy own, it's thou that art the ſtubborn and ſtiff-necked Jew who art for judgement.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away, put him up. So he was haled away and put into a ſtinking hole with <hi>B. G.</hi> among the Felons.</p>
+            </sp>
+            <stage>
+               <p>Then thoſe eighteen that pleaded were ſet to the Bar, and the <hi>London</hi> Jury were called over, and ſworn in their uſual manner and form, well and truly to Try, &amp;c.</p>
+               <p>
+                  <hi>Anne Preiſt</hi> at the Bar, her Indictment read, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Was you at the Bull and Mouth ſuch a time?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was at the door, I was not in the houſe, but when the Officers came to diſturb the peace as their uſual manner is, they forced me in; but the Lord God hath made three Children father<g ref="char:EOLhyphen"/>leſs, and you go about to make them Motherleſs.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Jurymen, take heed to your Conſciences; Some of them anſwered we cannot help what we do.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>William Newman</hi> called to the Bar, Indictment read, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Was you at the Bull and Mouth?</p>
+            </sp>
+            <stage>
+               <p>Before he anſwered, one witneſſed that he ſaw him there with about forty more, by the ſame token he pull'd down one that was ſpeaking, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you for your ſelf, what did you do there?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I was there according to the will of the Lord, and who dare ſay againſt it.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him by, he confeſſeth that he was there. <hi>John Clouſe</hi> was ſet to the Bar, &amp;c. And the City Mar<g ref="char:EOLhyphen"/>ſhall gave evidence that he was in the Meeting.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What can you ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I ſay I am not a ſubject of this Realm, and therefore this Act doth not concern me.</p>
+            </sp>
+            <pb n="14" facs="tcp:65169:9"/>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>No, no, we have looked over the old Statutes, and we finde that every one that comes hither to live for any time, he is a ſubject to this Realme.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>May every ſubject then purchaſe Land.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>I tell you no, but anſwer you to the Fact, was you there or no? he anſwe<g ref="char:EOLhyphen"/>red nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Judges.</speaker>
+               <p>He cannot deny it, put him by.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Rebccah Trump</hi> was ſet to the Bar, &amp;c. Witneſſes gave evidence that ſhe was at the Meeting, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you, was you at the Bull and Mouth? But before ſhe did anſwer, the Judge bid take her away, ſhe cannot deny but ſhe was there.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Anne Royley</hi> at the Bar, the like evidences above againſt her.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was at no ſeditious meeting or Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take her away, thats enough.</p>
+            </sp>
+            <stage>
+               <p>Set <hi>James Carter</hi> to the Bar, &amp;c. Witneſſes gave evidence that he was at the Bull and Mouth ſuch a day, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What can you ſay for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>There is nothing proved that the meeting I was at, is un<g ref="char:EOLhyphen"/>lawful, for it muſt be an unlawful actions that makes a meeting un<g ref="char:EOLhyphen"/>lawful.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him by:</p>
+            </sp>
+            <stage>
+               <p>Then the Priſoner cryed out and ſaid, <q>you had as good knock me on the head at the Bar, as not let me plead for my life and my liberty, and it may not only be my own life, but the life of my Wife and Children.</q>
+               </p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away.</p>
+            </sp>
+            <stage>
+               <p>Then was <hi>William Parker</hi> ſet to the Bar, &amp;c. Evidence given as before.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What can you ſay for your ſelf, was you at the Bull and Mouth?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I thought I ſhould not accuſe my ſelf, I was at no unlawful meeting, therefore <hi>Jurymen</hi> take notice that none hath proved the meeting unlawful, or that we did meet under a pretence, &amp;c.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Elizabeth Pike</hi> put to the Bar, Indictment read, &amp;c. Evidence given that ſhe met, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I tell you that I am unacquainted with your Law, and was never before thoſe called Judges till now, but I have often met amongſt the dear Children of the Lord; and I do not queſtion if you have not a hand in ſheding my innocent blood, I ſhall meet with them again and again.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take her away, ſhe hath ſaid enough.</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Hear you Jurymen in whoſe hands my liberty (and it may be my life) is committed, have you a care of deſtroying my liber<g ref="char:EOLhyphen"/>ty, and of ſheding this my innocent blood, but if you are wilful
+<pb n="15" facs="tcp:65169:9"/>and are reſolved to do it, who ſhall pray that it may not be laid to your charge?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take her away, take her away.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Elizabeth Harding</hi> at the Bar, &amp;c. Evidence given as before.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I know the living God, there<g ref="char:EOLhyphen"/>fore I cannot worſhip graven Images; And be it known unto you all, if I had as many bodies as haires on my head, I could lay them all down for the living eternal truth of the living God; alſo know that I am not aſhamed of the Teſtimony I bear, for I was there in obedience to the Lord, therefore have you a care that you ſhed not the blood of the Innocent.</p>
+            </sp>
+            <stage>
+               <p>She ſpoke alſo to the Jury, and bid them obſerve the command of Chriſt, <hi>(As you would that men ſhould do unto you, ſo do unto them.)</hi> And take heed that you ſhed not Innocent blood.</p>
+               <p>
+                  <hi>Thomas Cox</hi> was ſet to the Bar, &amp;c. the Evidence given was, that he was in the Bull at a Meeting with others above 5 ſuch a time, &amp;c.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you, were you there or not?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was there to wait upon the Lord, and if that is become a Crime worthy of Baniſhment let all people judge?</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him by.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Mabell Wheeler</hi> at the Bar, &amp;c. Evidence as before.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Was you at the Bull and Mouth?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was there, and it was for no other end then to worſhip God in ſpirit and truth.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Iſabel Hacker</hi> at the Bar, &amp;c. Evidence as before.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>We are innocent before the Lord God, and I do believe you are reſolved and determined what to do againſt us, ſo it is little matter for to plead, however in Gods Court I am not guilty of meeting under a colour and pretence, nothing of that hath been proved againſt any of us.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>John Chaplin</hi> called to the Bar, &amp;c. the like Evidence againſt him.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I am innocent.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Set him by.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Manaſſeth Howard</hi> was ſet to the Bar, Witneſſes gave evidence as before, that he was at the Meeting.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you <hi>M. H.</hi> was you at the Meeting at the Bull and Mouth?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>The Swearers have ſworn I was there.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You will not deny it?<note place="margin">This <hi>Ed. W.</hi> excepted againſt one of the <hi>Jury,</hi> becauſe he heard him ſay of two friends the would have them ſoundly whipt at <hi>Bridewell Judg.</hi> if that be all, ſwear him, &amp;c.</note>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I will not deny the truth.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>☞ Put him away, that's enough.</p>
+            </sp>
+            <stage>
+               <p>Then <hi>Edmond Ward</hi> was called to the Bar, &amp;c.
+<pb n="16" facs="tcp:65169:10"/>Evidence given as before.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What have you to ſay?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Is it a crime to wait upon the Lord?</p>
+            </sp>
+            <sp>
+               <speaker>Judge Twiſden.</speaker>
+               <p>Yes, yes.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Priſ.</hi> Speaking to the people, ſaid <q>I have no more to ſay, if it be a crime to wait upon the Lord.</q> Then the Judge ſpeaks as if he miſtook what he ſaid.</p>
+            </stage>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>Take notice I was at no ſeditious Conventicle.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>Take him away. <hi>James Pierce</hi> was ſet to the Bar, &amp;c. the Witneſſes gave Evidence that he was at the Bull and Mouth ſuch a time, &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>You do, you know not what, I look upon you not to be competent Judges to judge me, or any of us, upon this account we ſtand here indicted for.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>You are a Judge over the Kings Law, away, away. The Priſoner ſeeing there was a bad Jury as well as Judges, ſaid, Have a care what you do, this is the ſtone at which Generations paſt, and thoſe that not long ſince were in power were confounded by; and if you daſh your ſelves againſt it, you ſhall be broken, and if it fall upon you, it ſhall grind you to powder. <hi>Thomas Voſe</hi> was called to the Bar, &amp;c. the Evi<g ref="char:EOLhyphen"/>dence againſt him as before.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What have you to ſay, was you at the Bull and Mouth?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>I was there, and if I have my liberty I ſhall be there again.</p>
+            </sp>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What would you do there?</p>
+            </sp>
+            <sp>
+               <speaker>Priſoner.</speaker>
+               <p>I have ſpoke enough already.</p>
+            </sp>
+            <stage>
+               <p>
+                  <hi>Lawrence Aplin</hi> at the Bar, &amp;c. no Witneſſes proved that he was at the Bull and Mouth, but <hi>William Turner</hi> gave evidence that he had been in his Cuſtody four times.</p>
+            </stage>
+            <sp>
+               <speaker>Judge.</speaker>
+               <p>What ſay you for your ſelf?</p>
+            </sp>
+            <sp>
+               <speaker>Priſ.</speaker>
+               <p>It is in vain for me to ſay any thing to you.</p>
+            </sp>
+            <p>Then the Jury went forth, and in leſs then half an hour re<g ref="char:EOLhyphen"/>turned again, and brought all the aforeſaid twenty perſons in guilty. Then the Recorder took the late Act in his hand, and ſpoke ſomething to the Priſoners concerning the breach of the Law; as if their condemnation were juſt; to which a Priſoner replyed, and ſaid, Deceit, you dead men, I ſee through your law, it is the eternal Goſpel, I ſtand here this day in bonds for, which whoſoever renounceth, ſorrow ſhall never depart from his houſe; yea verily ſaith my God. Another ſaid, you have daſht your ſelves againſt the ſtone, and you ſhall be broken, and it ſhall alſo fall upon you, and grind you to powder; but the Recorder (without ask<g ref="char:EOLhyphen"/>ing any of them what they had to ſay, why judgement ſhould not
+<pb n="17" facs="tcp:65169:10"/>be given, &amp;c. proceeded to read the Sentence, which was this; (viz.) <hi>That they, and every of them, ſhould be Tranſported to the Iſland of</hi> Jamaica, <hi>there to remain ſeven years.</hi>
+            </p>
+         </div>
+         <div type="account">
+            <p>Here followeth the Names of 32. more Sentenced the <hi>16th.</hi> of the <hi>11th.</hi> Moneth (called <hi>Ianuary</hi>) 1664. at the <hi>Seſſions</hi> held in the <hi>Old Baily,</hi> and alſo of <hi>four</hi> Sen<g ref="char:EOLhyphen"/>tenced at a <hi>Seſſions</hi> held at <hi>Hicks-Hall</hi> on the <hi>12th.</hi> of the aforeſaid Moneth.</p>
+            <p>
+               <hi>Robert Hayes, Robert Pute, John Fox, John Tilby, Edward Walker, John Tiſdell, William Garrald, John Grane, Mathias Gardener, George Tayler, Richard Lam<g ref="char:EOLhyphen"/>hert, Evan Jones, William Tilleby, William Tillet, Iſaac How, Edward Bull, James Harding, George Evan, John Maſon, Joſiah Clare<g ref="char:punc">▪</g> Chriſtopher Dickinſon, Iſaac Warner, Edward Bruſh, Richard Smith, Mary Powell, Ann Dance, Elizabeth Dixſon, Katherin Charles, Suſanna Horn, Do<g ref="char:EOLhyphen"/>rethy Hall, Allice Richardſon, Margaret <g ref="char:V">Ʋ</g>ſhor, Thomas Stokes, Thomas Clarke, Thomas Burbuke, Bartholomew Harne,</hi>
+            </p>
+            <p>Now becauſe the proceedings of theſe two Courts was for manner, matter and form, the ſame with the former, and little more obſervable then what is aheady mentioned in the forego<g ref="char:EOLhyphen"/>ing Relation, for brevity ſake it ſhall only be touched at: Thus, the Grand Jury having found the Bills upon no better Evidence then the former, they were brought from <hi>Newgate</hi> to the afore<g ref="char:EOLhyphen"/>ſaid Courts, and their Indictments being read, they generally pleaded not guilty of thoſe evil things laid to their charge there<g ref="char:EOLhyphen"/>in, but acknowledged that they met together to Worſhip God, &amp;c. which Judge <hi>Keeling</hi> ſaid and declared publickly ſeveral times that that was matter of fact, and that that was crime enough being againſt the Law; and notwithſtanding the Priſoners pleaded that they did not meet under colour and pretence, &amp;c. but in reality
+<pb n="18" facs="tcp:65169:11"/>and truth to Worſhip God, which the Law was not expreſly a<g ref="char:EOLhyphen"/>gainſt, and that the Law did not make that matter of fact; yet Judge <hi>Keeleing,</hi> Recorder <hi>Wilde,</hi> and <hi>Rich. Brown,</hi> when the Jury was ready to go together to conſult the matter, would faine have perſwaded them that they need not go from the Bar, matter of fact appearing ſo clear before them; <hi>viz.</hi> (the Witneſſes gave E<g ref="char:EOLhyphen"/>vidence that they met at ſuch a time and place) and the Priſoners they had confeſſed that the end of their meeting was to Worſhip God,) the Jury looked upon one another a while, not knowing well what to do, at laſt one of them ſpake, and deſired they might go together, at which <hi>J. K.</hi> the Recorder, and <hi>R. B.</hi> ſeemed to be greatly troubled, and in a very threatening manner behaved them<g ref="char:EOLhyphen"/>ſelves both in words and geſtures, eſpecially towards him that de<g ref="char:EOLhyphen"/>ſired to go forth, and as they were going, gave them charge, encou<g ref="char:EOLhyphen"/>ragement, and inſtructions to bring in their verdict according to the mind of the Court, withall told them if they would come a<g ref="char:EOLhyphen"/>gain quickly they would not go to Dinner till they come, and then they ſhould be diſcharged, but they ſtaying, the Court was ad<g ref="char:EOLhyphen"/>journed, and went to Dinner; About 4. they met again, and imme<g ref="char:EOLhyphen"/>diately the Jury came and delivered their Verdict concerning all the 32. perſons wherewith they were charged, that they were guilty, at which the Court ſeemed much delighted, and very well pleaſed, and Judge <hi>Keeling</hi> ſtood up and told them they had done very well, and thanked them for their very good ſervice; (and ſomething was given by the hand of the Ordinary or Prieſt of <hi>Newgate</hi> into the hand of the Foreman, ſome that ſaw it judged it to be a Reward from the Court) ſo they were forthwith diſ<g ref="char:EOLhyphen"/>charged; then the Recorder took the late Act in his hand, and began a colourable Preamble, which the Priſoners would not re<g ref="char:EOLhyphen"/>gard nor give place unto, ſo he ſtopt, and ſaid, If you will not hear, then you muſt hearken to your ſentence, which is, that you, and every of you, ſhall be carried from hence to <hi>Newgate,</hi> and from thence be Tranſported to the Iſland of <hi>Jamaica,</hi> there to remain ſeven years.</p>
+            <p>Then he called to the Jaylor, and ſaid, notwithſtanding ſentence was paſt, Yet if any of them would ſend to him, and ſignifie their Conformity to the Eſtabliſhed Religion of the Church of <hi>England,</hi> and come to St. <hi>Pauls</hi> Church next Sunday, ſuch ſhould be diſ<g ref="char:EOLhyphen"/>charged
+<pb n="19" facs="tcp:65169:11"/>from that ſentence and impriſonment alſo. Then they were all carried away to <hi>Newgate,</hi> where there are in all under the ſentence of Tranſportation or Baniſhment 99. whereof two dead ſince their ſentence.</p>
+            <p>At <hi>Hickes-Hall</hi> the four were dealt with after the like manner.</p>
+         </div>
+         <div type="conclusion">
+            <head>A few words to be conſidered by Iury-men, that they might regard their Oaths, their Law and Evidence, though they lay aſide Chriſtianity and Religion.</head>
+            <p>WHy do you ſwear well and truly to Try, &amp;c. and true de<g ref="char:EOLhyphen"/>liverance make, &amp;c. and to bring in your Verdict accor<g ref="char:EOLhyphen"/>ding to Evidence, if you do not intend really ſo to do? And if you did intend, and truly deſire and endeavour ſo to do, how then comes it to paſs, that you ſo readily take the Judges Impo<g ref="char:EOLhyphen"/>ſitions and prejudiced Opinions, for a ſufficient evidential war<g ref="char:EOLhyphen"/>rant, to clear your Conſciences in the ſight of God and men? Do you not know, that thoſe Indictments againſt thoſe harmleſs people, contains and expreſſes ſeveral crimes, which are the mat<g ref="char:EOLhyphen"/>ter of fact, and ſhould be proved to you by ſufficient witneſſes? And are not you ſole and abſolute Judges of Matter of Fact? Are you bound in Conſcience or Law, to believe, or hear any Bitter, <hi>Cain</hi>-like ſpirited Judge or Lawyer, to tell you what matter of Fact is? Ought you not to conſult the Law it ſelf, which de<g ref="char:EOLhyphen"/>clares what the Fact is or may be, of which you are to judge, even according as the evidence in truth doth appear to you, and no otherwiſe? elſe how do you obſerve your Oaths? Surely you know, or ought to know, that all penal Laws plainly expreſ<g ref="char:EOLhyphen"/>ſes the manner and matter of Fact, and alſo the manner and meaſure of the penalty or puniſhment; and doth any Con<g ref="char:EOLhyphen"/>ſciencious, Judicious Jury need to value or regard the Judges and Lawyers meanings, contrary, or beyond the expreſſed mind of the Law it ſelf? by which, and the evidence, you are bound by your Oath to judge and deliver up your Ver<g ref="char:EOLhyphen"/>dict in all Caſes: how can you anſwer when you are called to ac<g ref="char:EOLhyphen"/>count before God or men, for bringing in Verdicts againſt inne<g ref="char:EOLhyphen"/>cent
+<pb n="20" facs="tcp:65169:12"/>People contrary to evidence and the Law, for did ever any witneſſes give evidence otherwiſe then thus, <hi>(viz.)</hi> that they were met together, and that peaceably to worſhip God in ſpirit and truth? is not this the largeſt evidence that ever you had? which no Law in being is expreſly againſt? what if a Judge tell you that this is matter of fact, and ſay you muſt finde them guilty, when no Law of God nor man ſaith no, will you deſtroy the liberty (if not the lives) of your Neighbours and Countrey-men to pleaſe men of corrupt minds, who judge not for God, but turn the ſword againſt the Innocent, unto which thoſe that depart from iniquity become a prey? and can theſe things be done except you violate your own conſciences, and unman your ſelves, and ſmo<g ref="char:EOLhyphen"/>ther your own reaſon, underſtanding and judgment, and ſo be<g ref="char:EOLhyphen"/>come Cyphers and Cloaks, to cover the deſignes of evil men, who thirſt after the blood as well as the liberty and eſtates of the peo<g ref="char:EOLhyphen"/>ple that truly fear the Lord? and is not this done by your hands, by and with whom they make a ſhew of a fair Tryal, when nothing leſs is intended, for may not you perceive though theſe harmleſs people plead Reaſon, Law, Religion, or Conſcience, all is to no effect or purpoſe, as to overturn the deſign and determination of the Judges, ſo longas you receive their Impoſitions, and are a<g ref="char:EOLhyphen"/>fraid of their threats? if the Priſoners plead, and the Law alſo ſaith that it is the end of any meeting, which makes it unlawful; yet if the Judge tell you that it is only meeting that is unlawful; are you not ready to diſregard the Priſoners plea, &amp; lay aſide the Law, your own Reaſon and Judgment, diſpence with your oaths, and preſently become Vaſſals to the Judges Opinion, and ſo joyn hand in hand againſt the Innocent? Conſider this while you have time, and load not your conſciences with, or by adding Sin unto Sin, for a day of account will come; and as the hills and the Mountains cannot ſave, nor cover you from the wrath of the Lamb, ſo ſhall not you ſave them, but you both ſhall receive a re<g ref="char:EOLhyphen"/>ward by the hand of the Lord, according to your doings.</p>
+            <p>Reader, Thou may'ſt obſerve all along this brief Relation, what ſlender proof is made to ſerve the turn for a pretence, colour &amp; covering under, which theſe Judges carry on their deſign againſt harmleſs people, that they might, with a ſhew of Juſtice, bring
+<pb n="21" facs="tcp:65169:12"/>their determinations to paſs; <hi>viz.</hi> to Judge and Condemn the Innocent; and that for no other cauſe than for meeting together according to the command of the Lord, and in obedience to his Requiring: And this is ſome of their firſt fruits they have, and do ſtill offer up to God, for his Reſtoring, and keeping them in power, with the ſword in their hands, which they turn againſt him, and his precious truth, and innocent people, who are freely given up to bear their cruel, unnatural, and unmanlike dealings. But, though they are endeavouring to over-run them by the Might of their power, and would trample upon a company of Innocent men and women of mine in the ſtreets, yet ſhall they never attain their ends, nor finiſh their intended work againſt the Innocent and Oppreſſed ſervants of the Lord, no more than <hi>Pharaoh</hi> and other perſecutors and oppreſſors did, who onely wrought their own de<g ref="char:EOLhyphen"/>ſtruction, and ſhall manifeſt themſelves more and more to be more brutiſh than thoſe they call heathen, in ſaying, that it is a crime to worſhip God, and in perſecuting harmleſs people for no other Cauſe; and in due time it will appear what God theſe Judges ſerve and worſhip, ſeeing there is but God and the Devil, one of which all men obey; and by the fruits which are brought forth, it becomes manifeſt which of them theſe people do obey and wor<g ref="char:EOLhyphen"/>ſhip: And may it not be ſaid of <hi>them, as Chriſt once ſaid to the Scribes, Phariſees, and Lawyers,</hi> (viz.) <hi>yee are of your Father the Devil, and his works yee will do;</hi> for are not his works manifeſt by theſe mens actions againſt the Lords Innocent people? in perſecuting them onely and alone for ſerving, honouring, o<g ref="char:EOLhyphen"/>beying, and worſhipping, the Lord God of heaven and earth? And doth it not appear, that they are hard, and ſeared in their hearts and Conſciences, who dare affirm publickly in the face of their Country, that it is Crime enough to meet to worſhip God in the Spirit and in the truth, and that the Law is againſt it? Did ever the Jews, the Gentiles, the Barbarians, Turks, or Infidels, or people of any Nation (that acknowledgeth and confeſſeth that there is a God) affirm the like? Shall not <hi>Sodom</hi> and <hi>Gomorrah, Tyre</hi> and <hi>Sidon,</hi> riſe up in Judgment againſt this perverſe, crooked, untoward, blaſphemous Generation, who ſay in their hearts there is no God? for though <hi>they ſometimes confeſs him in words, yet in works they deny him:</hi> who ſhall ſtand in the gap? who ſhall inter<g ref="char:EOLhyphen"/>cede
+<pb n="22" facs="tcp:65169:13"/>for this Generation? for the cry, and the loud voice of the ſouls under the Altar, ſlain for the word of God, and the Teſti<g ref="char:EOLhyphen"/>mony which they held, ſaying, <hi>How long, O Lord, holy, and true, doſt thou not judge and avenge our bloud on them that dwell on the earth?</hi> I ſay, this Cry hath peirced the heavens, and entred the ears of the Lord againſt this Generation; therefore tremble, ye uncircumciſed in hearts and ears, and be ſmitten with terrour, ye perſecutors about Religion, Church, and Worſhip, for behold, your portion is the ſame with <hi>Cain,</hi> your elder Brother, (who was the firſt murtherer about Religion,) and with the Whore, your Mother, who hath made Nations drunk with the wine of her fornication, and who is alſo drunken with the bloud of the Saints, and in whom is found the bloud of Prophets, and of Saints, of men and all that were or hath been ſlain upon earth; yea, in her is found the bloud of all the righteous ſince <hi>Abel</hi> to this day: therefore all perſecutors in Chriſtendome or elſewhere, who op<g ref="char:EOLhyphen"/>preſs, kill, and endeavour to deſtroy, and ſhed innocent Bloud, about Church, and Worſhip, &amp; Common Service, you are Chil<g ref="char:EOLhyphen"/>dren of this Whore; and as you partake of her ſins, ſo you will aſſuredly partake of her Plagues, for ſtrong is the Lord that judg<g ref="char:EOLhyphen"/>eth both her and you; and the Lord hath ſhewed many thouſands in this Nation and elſewhere, the ſecret Chambers of your Ima<g ref="char:EOLhyphen"/>gery, where you commit Uncleanneſs and Idolatry; and alſo what is in the golden Cup that your Mother holds forth to the Nations; and alſo what is under her purple, and ſcarlet coloured array, and her ornaments of gold, precious ſtones and pearls, and to them he hath lifted up her skirts, and made her naked and bare, and her filthineſs and fornication is ſeen in and under her glorious out ſide; and in vain do you, her children, endeavour to impoſe her Sorceries upon ſuch; if the Lord permit, ſhe may drink yet a little more of their bloud, but of the cup of her fornication they dare not, nor will not drink; for they know the true woman, the true Church, the Spouſe of Chriſt, (the Kings daughter who is all glorious within) and having ſeen her beauty and glory, and partook of her graces and vertues, cannot now follow other lo<g ref="char:EOLhyphen"/>vers, nor be forced by the power of the beaſt (which carrieth the Whore) nor yet by her fair allurements, to forſake and deny the true Church, though flouds of perſecutions follow her and her
+<pb n="23" facs="tcp:65169:13"/>Children; therefore in vain is the labour of Babels Merchants, and the power of the beaſt which defends them; againſt ſuch a people whoſe eyes are opened, and whoſe underſtandings are enlightened, and whoſe ſouls have not only taſted, but daily feed on the bread of life which comes down from above, even from the heavenly <hi>Jeruſalem,</hi> the mother of all the faithful, and the City of their Solemnity. I ſay, in vain do <hi>Babels</hi> Merchants, the children of the great Whore, and the Beaſt that carries her, endeavour to compell ſuch to partake of her Merchandize, to drink down her Sorceries, and to become Members of their Church, whoſe glory is outward fair words, but foul deeds; white garments, but black ſouls; the blind, the ignorant, the dark in heart and underſtanding, the doubtful and unſtable, the wanton, vicious, and voluptuous ones; theſe and ſuch like ſhe may prevail upon, and of ſuch do her Church conſiſt; of theſe are the Multitudes, Nations, Kindreds, and Tongues, on whom ſhe ſitteth, and over whom ſhe reigneth, and hath long reigned,—but the Lord in his exceeding riches, grace, kindneſs, and love, hath in this latter day cauſed his everlaſting day to dawn, and his day Starr to appear, and not onely ſo, but the womb of the mor<g ref="char:EOLhyphen"/>ning is opened, and the Sun of Righteouſneſs is riſen in the hearts of thouſands, even of thoſe over whom ſhe reigned, and he hath redeemed them from under her, and out of the Nations, Kin<g ref="char:EOLhyphen"/>dreds, and Tongues; and as this Light and Glory, Riches and Love encreaſes and prevails in the hearts of people, (which cer<g ref="char:EOLhyphen"/>tainly is to overcome) the Whore will loſe her Dominion, Seat, and great Authority, and be caſt upon a bed of torment, which is the determinate counſel of God, to bring to paſs upon her; for <hi>Babylon</hi> is faln, and muſt yet fall, Sin, Violence, Oppreſſion, Cru<g ref="char:EOLhyphen"/>elty, and perſecution had a begining, and muſt and ſhall have an end, and the whole Creation of God longs, groans, and travails for that day, even to enjoy her Sabboths, or reſts, and to ſee ſin and iniquity finiſhed, and everlaſting Righteouſneſs brought in, and Judges reſtored, as at the firſt, and Counſellors, as at the be<g ref="char:EOLhyphen"/>ginning; and the knowledge of the Lord to cover the earth, as the water doth the Sea (or the deeps;) but the wicked muſt fill up their meaſure of doing wickedly, and the Righteous alſo muſt fill
+<pb n="24" facs="tcp:65169:14"/>up their meaſure of ſuffering innocently; and in the end cometh the <hi>Reward of both.</hi>
+            </p>
+            <epigraph>
+               <q>The memory of the juſt is bleſſed, but the name of the wicked ſhall rot. <bibl>Prov. 10.7.</bibl>
+               </q>
+            </epigraph>
+            <epigraph>
+               <q>And may it not be ſaid of <hi>Chriſtendome,</hi> as once the Lord ſaid of <hi>Iſrael,</hi> Sodom thy ſiſter hath not done, ſhe nor her daughters, as thou haſt done, and thy daughters. <bibl>Ezek. 16.48. &amp;c.</bibl>
+               </q>
+            </epigraph>
+         </div>
+         <div type="postscript">
+            <head>Poſtſcript.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>I do here preſent to thy view, a Narrative of the moſt malicious, wicked &amp; Illegall Proceſs againſt one of the perſecuted and oppreſſed ones of Chriſt, called <hi>John Otter</hi> Shoomaker, who on the 25. of the <hi>10th.</hi> Month called <hi>December,</hi> 1664. was taken in a Meeting at <hi>Mile-end,</hi> and from thence had before <hi>William Rider,</hi> and <hi>Thomas Player,</hi> called Juſtices, which Meeting the People of God called <hi>Quakers,</hi> have and do, in their uſuall man<g ref="char:EOLhyphen"/>ner meet to worſhip God, as he hath made himſelf known in them, and unto them, the Relation extracted from his own mouth, is as followeth: The ſaid <hi>John Ottir,</hi> with ſome of the people of God, called <hi>Quakers,</hi> being ſeized, in the ſaid Meeting was brought before the two Juſtices (ſo called) <hi>William Rider</hi> asked him his name, the Pri<g ref="char:EOLhyphen"/>ſoner
+<pb n="25" facs="tcp:65169:14"/>declared his name unto them; then he asked him his Dwelling place, or place of abode, the Priſoner asked him if declaring his name was not ſufficient; Then <hi>Tho. Player</hi> ſaid, No; but ſaid in his haſt, that if he declared not his place of Habitation or abode, he was to be taken as a Felon, or a Vagabond: The Priſoner anſwered that he had a dwelling place where neither thief, murderer, nor perſecuter could come: Then <hi>W. R.</hi> asked where that was? he ſaid in God. So they committed him to New <hi>Bridewell,</hi> as a Vagabond, where he was detained ſome weeks, and the Seſſions at <hi>Hicks-Hall,</hi> following ſhortly after, the ſaid Priſoner was called down thither, where were <hi>Robert Hide,</hi> and <hi>Iohn Keeling,</hi> two of the Kings Judges, with other Juſtices (ſo called) who uſually ſit there, and there was three Malefactors, who were Pri<g ref="char:EOLhyphen"/>ſoners at the ſame time, that was brought down to the Seſſions, who was called to the Bar, <hi>John Otter</hi> being alſo ſet to the Bar, the Judge asked him his Dwelling place? the Priſoner anſwered him as he did the ſaid Juſtices; then after ſome conſultation with the ſaid Juſtices, the Judge pronouced Sentence againſt him with the reſt, that he ſhould be Tranſported beyond the Seas to any of the Kings Forreign Plantations; with<g ref="char:EOLhyphen"/>out asking the Priſoner any thing, or taking notice in what Capacity he was, only he asked the Keeper if he had the Correction of the houſe? who anſwered he had been in the Stocks five times; and ſo was returned to Priſon, having received the ſentence as a Vagabond; their proceedings being ſignified to the Councel, at the deſire of two men, one called <hi>Tho. Coltloth,</hi> the other <hi>Richard Sherrwood,</hi> men having dealings to <hi>Virginia,</hi> the ſaid Pri<g ref="char:EOLhyphen"/>ſoner was granted unto them with the three Malefactors,
+<pb n="26" facs="tcp:65169:15"/>to be ſent to <hi>Virginia,</hi> there to be ſold Slaves for ſeven years. Now whoever thou art that reads this Narrati<g ref="char:EOLhyphen"/>on, and the foregoing Relations of the ſeveral tryals of the people of God, called <hi>Quakers,</hi> comprehended in this Treatiſe, and if thou weigheſt things in the juſt bal<g ref="char:EOLhyphen"/>lance of Truth, which God hath placed in thee, thou wilt ſee how oppreſſion is added to oppreſſion, injury to injury, miſery to miſery, and all to ſet up luſt inſtead of Law; and how the Law is ſtrained, and ſtretched, to accompliſh their envious devices; For the Statute made and provided in that caſe, againſt Rogues, Vagabonds, and ſturdy Beggers, doth ſhew and nominate who are ſuch, before puniſhment is proceeded unto, as in 39. <hi>Eliz. cap.</hi> 4. ſheweth, Firſt, <q>That all perſons calling themſelves Schollars, going about begging, all Sea-faring men pre<g ref="char:EOLhyphen"/>tending loſſes of their Ships or Goods on the Sea, going about the Country begging, all idle perſons going about in any Country either begging, or uſing any ſubtle craft, or unlawful Games and Playes, or feigning themſelves to have knowledge in Phyſiognomy, Palmeſtry, or other like crafty Science, or pretending they can tell Deſtinies, Fortunes, or ſuch other like fantaſtical imaginations, all perſons that be or utter themſelves to be Procters, Pro<g ref="char:EOLhyphen"/>curers, Patent gatherers, or Collectors, for Goales, Pri<g ref="char:EOLhyphen"/>ſons, or Hoſpitals, all Fercers, Bearwards, Common Players of Interludes and Minſtrils, wandring abroad, all Juglats, Tinckers, Pedlars, and petry Chapmen, wand<g ref="char:EOLhyphen"/>ring abroad, all wandring perſons, and common Labou<g ref="char:EOLhyphen"/>rers, being able in body uſing loytering, and refuſing to work for ſuch reaſonable wages, as is tared or commonly given in ſuch parts; all perſons delivered out of Goales that beg for their Fees, or do travel begging, all perſons
+<pb n="27" facs="tcp:65169:15"/>as ſhall wander abroad beging, pretending loſſes by fire, and all ſuch perſons not being Felons, wandring and pre<g ref="char:EOLhyphen"/>tending themſelves to be <hi>Egyptians,</hi> or counterfeit <hi>Egyp<g ref="char:EOLhyphen"/>tians,</hi> ſhall be taken, adjudged, and deemed Rogues, Va<g ref="char:EOLhyphen"/>gabonds, and ſturdy Beggers, and ſhall ſuſtain ſuch pain and puniſhments, as by this Act is in that behalf ap<g ref="char:EOLhyphen"/>pointed.</q>
+            </p>
+            <p>Now unto you Judges and Juſtices who have paſſed, and given your conſents unto the ſentencing of this inno<g ref="char:EOLhyphen"/>cent man for Baniſhment, and pretend the Law for it, I ask which of all or any of the capacities of perſons ad<g ref="char:EOLhyphen"/>judged to be Rogues, Vagabonds, and ſturdy Beg<g ref="char:EOLhyphen"/>gers, by this Statute did you find this Innocent perſon, which of your doores was he taken begging at? or any others? or what practice elſe did you find him in which this Statute doth adjudge? what muſt he be expoſed to the uttermoſt ſeverity men<g ref="char:EOLhyphen"/>tioned in the ſame, that is baniſhed? before you had proceeded to the ſentencing for Baniſhment of this Innocent perſon, under the name of Vagabond, Rogue, or ſturdy Beggar; he ſhould firſt have been proved ſo to be, or it ſhould have been made appear unto you, that he had been found in the quality or qua<g ref="char:EOLhyphen"/>lities above mentioned, and if you had proved him to be ſuch a one, or he had appeared ſo to be, yet that is not ſufficient for you, who ſo often repeates your being upon your Oathes, and that you muſt do Juſtice according; to proceed to Baniſhment, for they muſt appear to be dangerous to the inferi<g ref="char:EOLhyphen"/>our ſort of people where they ſhall be taken, or o<g ref="char:EOLhyphen"/>therwiſe be ſuch as will not be reformed of their Roguiſh kind of life, by the former Proviſions of this
+<pb n="28" facs="tcp:65169:16"/>Act: If he had been found ſuch a one, as you have ſentenced him to be, nevertheleſs he was to have been referred to the former Proviſions of this Act, and ſo then to have proceeded according; but right or wrong whoever they be that fear God, and make conſcience of their wayes before him, if they come but within the verge of your fury, their fare is all alike; if one ſnare will not do, another ginn ſhall, and ſo the Innocent are deprived of their Birth-rights outward, which is the equity of Laws made and provided to ſecure every free-born <hi>Engliſhman</hi> in his Right and Propriety, and the equal and impartial miniſtration and diſtribution of them; and they are oppreſſed in their Conſciences inward, by that perſecuting Spirit which ſeeks to diſ-throne God there, and exalt it ſelf, but, be it known unto you, we neither can, nor ſhall bow unto that Spirit, the way you take to work us to Conſormity; is a contrary way; it is not ſwords, ſtaves, halberds, nor your Goals, and your cruel Ex<g ref="char:EOLhyphen"/>erciſes impoſed there, and inflicted on our bodies will do it; I tell you, we are gentle to lead, but otherwiſe to be driven, is unnatural to <hi>Engliſhmen,</hi> and ſuch as fear the living God, and no man this day in <hi>England</hi> can charge us with evil juſtly: as we are a peo<g ref="char:EOLhyphen"/>ple, and God, even God eternal, beareth record unto our Conſciences of the ſame, you have waded very far in this work, conſidering your day; well would it be for you, if you laid it to heart, and them alſo who whets you on to this work, of whom it may be ſaid, as of old, Come, let us ſmite with the Tongue, and ſmite you with the Fiſt; and ſo the Oppreſſion and Per<g ref="char:EOLhyphen"/>ſecution of Gods People is divided between you; and
+<pb n="29" facs="tcp:65169:16"/>they are ground betwixt you, even you Lawyers and Prieſts, as between two Mill-ſtones; but in due time the Lord will ariſe and plead our Cauſe, and give Judgement to our enemies, yea, righteous Judgment, and all the Perſecutors of his Innocent People ſhall know it; Although we are made in this day, even the Spunge of the Nation, to drink in the implaca<g ref="char:EOLhyphen"/>ble fury of your Malice, yet know, the very dregs of your Cup is reſerved of the Lord for your ſelves, and in due time you ſhall drink the ſame; and when you are under Judgment, then it will be given you, to re<g ref="char:EOLhyphen"/>member them whom you have moſt injuriouſly, and unrighteouſly oppreſſed.</p>
+            <closer>I ſay, Mind, and give good heed unto what is ſaid, for your day haſtens.</closer>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
